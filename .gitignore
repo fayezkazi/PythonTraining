@@ -47,8 +47,9 @@ venv.bak/
 *.csv
 test_output/
 
-# Keep the README
+# Keep important files
 !README.md
+!requirements.txt
 
 # Pytest
 .pytest_cache/
