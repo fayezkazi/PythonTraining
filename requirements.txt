@@ -1,0 +1,10 @@
+# Python Training - Requirements
+# This file lists any Python packages needed for the exercises
+
+# No external packages are required for the basic exercises
+# All exercises use Python's standard library
+
+# Optional: Packages for testing your own solutions
+# pytest==7.4.0  # For running tests
+# black==23.7.0  # For code formatting
+# flake8==6.0.0  # For code linting
